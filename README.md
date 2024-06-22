@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <!-- <div align="center"> -->
 <div>
   
-[![Seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
+[![leeseo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
 </div>
