@@ -4,7 +4,7 @@
 
 - 👩‍💻 Data Analysis
 - 📚 Statistics & Management Engineering
-
+<br></br>
 <h3>💪 Skills</h3>
 <p> 🛠 used as the main </p>
 <p> 💡 used at least once </p>
