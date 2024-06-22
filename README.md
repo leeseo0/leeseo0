@@ -14,7 +14,7 @@
 </p>
 <p> 💡 used at least once </p>
 <p>
-<!--   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/SAS-#0FAAFF?style=flat-square&logo=SAS&logoColor=white"/></a>&nbsp
 </p>
 <br></br>
 <h3>📊 My Github Stats 📊</h3>
