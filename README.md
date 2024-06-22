@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![leeseo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
 </div> -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leeseo0&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseo0&theme=dark&show_icons=true"/></a>
 </p>
