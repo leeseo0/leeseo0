@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <!-- <div align="center"> -->
-<!-- <div>
+<div>
   
-[![leeseo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
-</div> -->
-<p>
+[![leeseo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseo0&layout=compact)](https://github.com/leeseo0/github-readme-stats)
+</div>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leeseo0&theme=dark&show_icons=true"/></a>
-</p>
+</p> -->
