@@ -5,7 +5,7 @@
 - 👩‍💻 Data Analysis
 - 📚 Statistics & Management Engineering
 <br></br>
-<h3>💪 Skills</h3>
+<h3>💪 Tech Stack</h3>
 <p> 💡 used as the main </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
