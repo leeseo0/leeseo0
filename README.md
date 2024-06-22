@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **leeseo0/leeseo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
