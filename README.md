@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <!-- <div align="center"> -->
-<div>
+
+<a href="https://github.com/leeseo0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeseo0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Seo Young's github stats" /></a>
+<a href="https://github.com/leeseo0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseo0&layout=compact&theme=dark&hide_border=true" /></a>
+
+<!-- <div>
   
 [![Seo Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseo0&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/leeseo0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseo0&layout=compact&theme=dark)](https://github.com/leeseo0/github-readme-stats)
-</div>
+</div> -->
 <!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leeseo0&theme=dark&show_icons=true"/></a>
 </p> -->
