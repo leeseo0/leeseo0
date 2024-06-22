@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
 <p> 💡 used at least once </p>
+<p>
+<!--   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp -->
+</p>
 <br></br>
 <h3>📊 My Github Stats 📊</h3>
 
