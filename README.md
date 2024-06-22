@@ -2,6 +2,9 @@
 
 **Welecome to SeoYoung's Github🙌**
 
+- 👩‍💻 Data Analysis
+- 📚 Statistics & Management Engineering
+
 <!-- **leeseo0/leeseo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
+<h3>📊 My Github Stats 📊</h3>
 
 <a href="https://github.com/leeseo0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeseo0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Seo Young's github stats" /></a>
 <a href="https://github.com/leeseo0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseo0&layout=compact&theme=dark&hide_border=true" /></a>
