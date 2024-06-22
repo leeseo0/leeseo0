@@ -6,8 +6,11 @@
 - 📚 Statistics & Management Engineering
 <br></br>
 <h3>💪 Skills</h3>
-<p> 🛠 used as the main </p>
-
+<p> 💡 used as the main </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  
+</p>
 <p> 💡 used at least once </p>
 <br></br>
 <h3>📊 My Github Stats 📊</h3>
