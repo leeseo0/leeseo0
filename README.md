@@ -4,13 +4,11 @@
 
 - 👩‍💻 Data Analysis
 - 📚 Statistics & Management Engineering
-  
 <br></br>
 <h3>💪 Skills</h3>
 <p> 🛠 used as the main </p>
 
 <p> 💡 used at least once </p>
-
 <br></br>
 <h3>📊 My Github Stats 📊</h3>
 
