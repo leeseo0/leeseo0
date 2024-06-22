@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 </p>
 <p></p>
+<p></p>
 <h3>📊 My Github Stats 📊</h3>
 
 <a href="https://github.com/leeseo0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeseo0&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Seo Young's github stats" /></a>
